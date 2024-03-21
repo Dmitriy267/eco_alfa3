@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/eco_alfa3/static/css/main.57a38e23.css",
+    "main.js": "/eco_alfa3/static/js/main.a5f8b1c2.js",
+    "static/js/453.d0c1d6f7.chunk.js": "/eco_alfa3/static/js/453.d0c1d6f7.chunk.js",
+    "index.html": "/eco_alfa3/index.html",
+    "main.57a38e23.css.map": "/eco_alfa3/static/css/main.57a38e23.css.map",
+    "main.a5f8b1c2.js.map": "/eco_alfa3/static/js/main.a5f8b1c2.js.map",
+    "453.d0c1d6f7.chunk.js.map": "/eco_alfa3/static/js/453.d0c1d6f7.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.57a38e23.css",
+    "static/js/main.a5f8b1c2.js"
+  ]
+}
